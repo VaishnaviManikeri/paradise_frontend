@@ -14,7 +14,7 @@ const Curriculum = () => {
         "Social & emotional growth",
         "Creative activities"
       ],
-      img: "/paradise/curiculum/kids27.jpg"
+      img: "/paradise_frontend/curiculum/kids27.jpg"
     },
     {
       name: "Primary School",
@@ -27,7 +27,7 @@ const Curriculum = () => {
         "Critical thinking",
         "Moral values & discipline"
       ],
-      img: "/paradise/curiculum/2327605.jpg"
+      img: "/paradise_frontend/curiculum/2327605.jpg"
     },
     {
       name: "Secondary & Junior College",
@@ -40,7 +40,7 @@ const Curriculum = () => {
         "Career guidance",
         "Personality development"
       ],
-      img: "/paradise/curiculum/appdeveloper_3.jpg"
+      img: "/paradise_frontend/curiculum/appdeveloper_3.jpg"
     }
   ];
 

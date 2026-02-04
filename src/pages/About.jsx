@@ -164,7 +164,7 @@ const About = () => {
               <div className="flex flex-col items-center">
                 <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-blue-600 shadow-lg mb-4">
                   <img
-                    src="/paradise/images/owner.png"
+                    src="/paradise_frontend/images/owner.png"
                     alt="Principal Paradise School"
                     className="w-full h-full object-cover"
                     onError={(e) => { 
@@ -227,7 +227,7 @@ const About = () => {
               <div className="flex flex-col items-center">
                 <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-blue-600 shadow-lg mb-4">
                   <img
-                    src="/paradise/images/Shardul_jadhavar.jpeg"
+                    src="/paradise_frontend/images/Shardul_jadhavar.jpeg"
                     alt="Chairperson Paradise School"
                     className="w-full h-full object-cover"
                     onError={(e) => { 

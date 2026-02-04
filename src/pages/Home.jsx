@@ -37,7 +37,7 @@ const Home = () => {
 
             {/* IMAGE ONLY */}
             <img
-              src="/paradise/images/hero111.png"
+              src="/paradise_frontend/images/hero111.png"
               alt="Paradise English Medium School Campus"
               className="
                 w-full
