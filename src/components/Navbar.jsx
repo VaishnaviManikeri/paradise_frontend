@@ -65,19 +65,20 @@ const Navbar = () => {
           aria-label="Paradise English Medium School Home"
           className="flex-shrink-0 bg-white rounded-full p-1"
         >
-          <img
-            src="/images/logo1.png"
-            alt="Paradise English Medium School Logo"
-            className="
-              w-14 h-14
-              sm:w-16 sm:h-16
-              md:w-20 md:h-20
-              lg:w-24 lg:h-24
-              xl:w-28 xl:h-28
-              object-contain
-              transition-transform duration-300
-            "
-          />
+         <img
+  src="/paradise_frontend/images/logo1.png"
+  alt="Paradise English Medium School Logo"
+  className="
+    w-14 h-14
+    sm:w-16 sm:h-16
+    md:w-20 md:h-20
+    lg:w-24 lg:h-24
+    xl:w-28 xl:h-28
+    object-contain
+    transition-transform duration-300
+  "
+/>
+
         </Link>
 
         {/* SCHOOL NAME */}
